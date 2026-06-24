@@ -7,7 +7,7 @@ A modern, responsive landing page built using **HTML**, **CSS**, **JavaScript**,
 Add your deployment link here:
 
 ```bash
-https://your-live-demo-link.com
+https://manage-landing-page-inky-omega.vercel.app/
 ```
 
 ---
